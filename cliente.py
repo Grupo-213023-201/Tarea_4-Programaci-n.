@@ -1,5 +1,5 @@
 import re
-from excepciones import ClienteInvalidoError, ParametroFaltanteError
+from exepciones import ClienteInvalidoError, ParametroFaltanteError
 from logger_config import logger
 
 class Cliente:
